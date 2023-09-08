@@ -3,4 +3,4 @@
 
 In this video you will learn How to Create Sticky Navbar in HTML CSS and JavaScript
 
-video tutorial on youtube: 
+video tutorial on youtube: https://youtu.be/BwHrX8-dNac
